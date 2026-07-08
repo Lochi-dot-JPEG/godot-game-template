@@ -1,0 +1,6 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Remove this to use wakatime TODO clear this from releases
+addons/godot_super-wakatime
