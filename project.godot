@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="game-template"
-run/main_scene="uid://ll38dsblkihl"
+run/main_scene="uid://tyrg4dwr2d8p"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
@@ -23,6 +23,10 @@ Globals="*uid://b6ti560xlnl26"
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
+
+[gui]
+
+theme/custom="uid://bxroux3q0c77q"
 
 [physics]
 
